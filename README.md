@@ -5,10 +5,10 @@ A repo for all of the config files for my Micron+ printer, affectionately known 
 - Micron R1
 - Running [Danger Klipper](https://dangerklipper.io/)
 - 180x180x140 build volume
-- 175x175mm 200W Silicone Bed Heater
+- 175x175mm 200W 24V Silicone Bed Heater
 - [Boop](https://github.com/PrintersForAnts/Boop) as bed probe
-- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
-- Revo Voron 60 watt Hotend
+- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) Toolhead
+- Revo Voron 60W Hotend
 - [Galileo 2 Stand Alone](https://github.com/JaredC01/Galileo2) extruder
   - with Orbiter 2 mount pattern (should likely switch this over to mini sherpa pattern...)
   - Extruder Stepper: LDO-36STH20-1004AHG(9T)
@@ -26,4 +26,9 @@ A repo for all of the config files for my Micron+ printer, affectionately known 
 
 ## Want to add
 - LEDs
+- Camera
+- Filter
+- Handles
 - [Tophat mod?](https://www.printables.com/model/761305-micron-top-canopy)
+- [Clicky Clack Door?](https://github.com/TheVoronModder/MiniFridge?tab=readme-ov-file)
+- [Fizzy Tech's Electronic Management System (EMS)](https://www.printables.com/model/872507-ft-ems-micron-180)
