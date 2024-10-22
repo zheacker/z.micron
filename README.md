@@ -29,6 +29,7 @@ A repo for all of the config files for my Micron+ printer, affectionately known 
 - Camera
 - Filter
 - Handles
+- [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 - [Tophat mod?](https://www.printables.com/model/761305-micron-top-canopy)
 - [Clicky Clack Door?](https://github.com/TheVoronModder/MiniFridge?tab=readme-ov-file)
 - [Fizzy Tech's Electronic Management System (EMS)](https://www.printables.com/model/872507-ft-ems-micron-180)
